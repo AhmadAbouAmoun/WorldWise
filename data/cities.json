@@ -1,0 +1,26 @@
+{
+  "cities": [
+    {
+      "id": "f10f",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "date": "2024-09-10T10:38:08.594Z",
+      "notes": "HALAAAAAAAAAAAA",
+      "position": {
+        "lng": "-3.6914062500000004",
+        "lat": "40.38839687388361"
+      }
+    },
+    {
+      "id": "8a6c",
+      "cityName": "Costur",
+      "country": "Spain",
+      "date": "2024-09-11T10:36:07.087Z",
+      "notes": "hala madrid\n",
+      "position": {
+        "lng": "-0.15380859375000003",
+        "lat": "40.14109012528468"
+      }
+    }
+  ]
+}
